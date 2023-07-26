@@ -50,9 +50,11 @@ libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev
 libexpat1-dev liblzma-dev zlib1g-dev libffi-dev tar wget vim
 # 3. Download Python
 You can download Python from the official website or use the following command.
+
 wget https://www.python.org/ftp/python/3.8.0/Python-3.8.0.tgz
 # 4. Install Python 3.8
 Now we will extract and install Python from the source.
+
 sudo tar zxf Python-3.8.0.tgz
 cd Python-3.8.0
 sudo ./configure --enable-optimizations
@@ -60,15 +62,18 @@ sudo make -j 4
 sudo make altinstall
 # 5. Check Python version
 Now Python is installed you can check the version using the following command.
+
 python3.8 -V
 # 6. Make Python 3.8 as the default version
-If you want to use python 3.8 as a default version you can create an alias.echo "alias
+If you want to use python 3.8 as a default version you can create an alias.
+
+echo "alias
 python=/usr/local/bin/python3.8" >> ~/.bashrc
 Then source the .bashrc file.
 source ~/.bashrc
 # 7. Check Python Version
 After creating an alias check the python version again.
-KESHAV MEMORIAL INSTITUTE OF TECHNOLOGY | Smart Traffic Light Management System 30
+
 python -V
 Python 3.8.0
 Now you have successfully installed Python 3.8 on Raspberry Pi.
