@@ -3,7 +3,7 @@ In current scenario one of the serious concern
 for people in smart cities such as Delhi, Bangalore, Mumbai,
 Hyderabad etc. is traffic congestion. This has turned out to be
 a daily problem in current time. Due to this road congestion
-accidents in the city have are raised to a great extent so lives
+accidents in the city have raised to a great extent so lives
 lost due to accidents are even more crucial. Due to this
 congestion on the roads, emergency vehicles such as
 ambulances, fire-cars and other vehicles cannot reach on time.
