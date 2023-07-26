@@ -38,11 +38,13 @@ we will connectcomponents such as IR sensor, Traffic Light Led to the raspberry 
 Steps to install python:
 # 1. Update the Raspbian
 Update the Raspbian before installing python.
+
 sudo apt-get update
 
 # 2. Prerequisites
 Before installing Python 3.8 there are some dependencies that we need to install. Use
 the following command to install the required dependencies.
+
 sudo apt-get install -y build-essential tk-dev libncurses5-dev libncursesw5-dev
 libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev
 libexpat1-dev liblzma-dev zlib1g-dev libffi-dev tar wget vim
