@@ -23,44 +23,11 @@ vehicles in each lane and based on the count signal is given to each lane
 # Setting up connections with Raspberry PI
 we will connectcomponents such as IR sensor, Traffic Light Led to the raspberry pi Now will will connect the IR sensors and the Traffic Light LED with the
 Raspberry Pi according to the table:
-Vcc of IR Sensor 1	Connect it to Breadboard
-Vcc of IR Sensor 2	Connect it to Breadboard
-Vcc of IR Sensor 3	Connect it to Breadboard
-Vcc of IR Sensor 4	Connect it to Breadboard
-Vcc of IR Sensor 5	Connect it to Breadboard
-Vcc of IR Sensor 6	Connect it to Breadboard
-Vcc of IR Sensor 7	Connect it to Breadboard
-Vcc of IR Sensor 8	Connect it to Breadboard
-Ground of IR sensor 1	Connect it to Breadboard
-Ground of IR sensor 2	Connect it to Breadboard
-Ground of IR sensor 3	Connect it to Breadboard
-Ground of IR sensor 4	Connect it to Breadboard
-Ground of IR sensor 5	Connect it to Breadboard
-Ground of IR sensor 6	Connect it to Breadboard
-Ground of IR sensor 7	Connect it to Breadboard
-Ground of IR sensor 8	Connect it to Breadboard
-Vout of IR sensor 1	Connect it with GPIO 26 (BCM 37)
-Vout of IR sensor 2	Connect it with GPIO 1 (BCM 28)
-Vout of IR sensor 3	Connect it with GPIO 7 (BCM 26)
-Vout of IR sensor 4	Connect it with GPIO 19 (BCM 35)
-Vout of IR sensor 5	Connect it with GPIO 17 (BCM 11)
-Vout of IR sensor 6	Connect it with GPIO 8 BCM 24)
-Vout of IR sensor 7	Connect it with GPIO 21 (BCM 40)
-Vout of IR sensor 8	Connect it with GPIO 25 (BCM 22)
-LED1 Red	Connect it with GPIO 2 (BCM 3)
-LED1 Yellow	Connect it with GPIO 3 (BCM 5)
-LED1 Green	Connect it with GPIO 4 (BCM 7)
-LED2 Red	Connect it with GPIO 10 (BCM 19)
-LED2 Yellow	Connect it with GPIO 9 (BCM 21)
-LED2 Green	Connect it with GPIO 11 (BCM 23)
-LED3 Red	Connect it with GPIO 18 (BCM 12)
-LED3 Yellow	Connect it with GPIO 15 (BCM 10)
-LED3 Green	Connect it with GPIO 14 (BCM 8)
-LED4 Red	Connect it with GPIO 20 (BCM 38)
-LED3 Yellow	Connect it with GPIO 16 (BCM 36)
-LED3 Green	Connect it with GPIO 12 (BCM 32)
-Common ground from breadboard	Connect it with ground of RaspberryPi
-Common Vcc from breadboard	Connect it with RaspberryPi 5v
+![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/4c51d074-b63f-4164-95e1-e1eff4193f8b)
+![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/ae8cc58f-dbbd-4b91-a1f2-bae020b77111)
+
+
+
 
 
 Steps to install python:
