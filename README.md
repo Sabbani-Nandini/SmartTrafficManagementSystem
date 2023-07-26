@@ -8,7 +8,7 @@ lost due to accidents are even more crucial. Due to this
 congestion on the roads, emergency vehicles such as
 ambulances, fire-cars and other vehicles cannot reach on time.
 This results in huge loss of life. To tackle these issues up to a
-great extent we present a solution in this paper.  This can
+great extent we present a solution in this project.  This can
 save their time expansion for reaching the proposed
 destination and can prevent the loss of human life up to great
 extent. IoT provides a method to tackle these issues by
