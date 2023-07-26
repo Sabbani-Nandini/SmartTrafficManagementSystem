@@ -1,4 +1,4 @@
-# SmartTrafficManagementSystem
+# Smart Traffic Management System
 In current scenario one of the serious concern
 for people in smart cities such as Delhi, Bangalore, Mumbai,
 Hyderabad etc. is traffic congestion. This has turned out to be
