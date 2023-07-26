@@ -26,7 +26,8 @@ we will connectcomponents such as IR sensor, Traffic Light Led to the raspberry 
 ![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/4c51d074-b63f-4164-95e1-e1eff4193f8b)
 ![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/ae8cc58f-dbbd-4b91-a1f2-bae020b77111)
 ![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/f8c0f432-b7c2-41b8-b181-cd29fc522b1b)
-![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/bee9f49e-9dc8-4406-94cf-74da84489c73)
+![image](https://github.com/Sabbani-Nandini/SmartTrafficManagementSystem/assets/93151923/24a9aca3-0fca-408e-be79-71349c51d1a4)
+
 
 
 
@@ -44,7 +45,6 @@ Before installing Python 3.8 there are some dependencies that we need to install
 the following command to install the required dependencies.
 sudo apt-get install -y build-essential tk-dev libncurses5-dev libncursesw5-dev
 libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev
-KESHAV MEMORIAL INSTITUTE OF TECHNOLOGY | Smart Traffic Light Management System 29
 libexpat1-dev liblzma-dev zlib1g-dev libffi-dev tar wget vim
 # 3. Download Python
 You can download Python from the official website or use the following command.
